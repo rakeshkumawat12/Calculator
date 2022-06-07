@@ -19,8 +19,8 @@ body {
     margin: 0 auto;
     width: 256px;
     text-align: center;
-    border: 10px solid #101116;
-    background: #101116;
+    border: 10px solid #ACDCF0;
+    background: #A8EEED;
     border-radius: 5px;
 }
 
@@ -33,7 +33,7 @@ body {
 input[type="text"] {
     height: 75px;
     width: 249px;
-    background-color: #10111600;
+    background-color: #B3BBF2;
     border: 0px;
     color: #ffffff;
     text-align: right;
@@ -63,7 +63,7 @@ button{
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    background: #262834;
+    background: #C2B7F3;
     color: #ffffff;
     font-weight: 500;
 }
@@ -76,5 +76,5 @@ button:active {
 }
 
 .highlight{
-    background: #56cbdb;
+    background: #B3BBF2;
 }

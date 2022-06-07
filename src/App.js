@@ -47,9 +47,7 @@ export default function App() {
                     <button name="0" onClick={handleClick}>0</button>
                     <button name="." onClick={handleClick}>.</button>
                     <button className="highlight" onClick={calculate} id="result">=</button>
-
                 </div>
-
             </div>
         </>
     )

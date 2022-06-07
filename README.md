@@ -1,3 +1,5 @@
+![Screenshot](/src/Assets/screenshot.png)
+
 #  Installing
 1. Clone the latest code on the master branch
 2. Install dependencies
